@@ -1,0 +1,24 @@
+.contactsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    width: 50%;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.contactContainer{
+    background-color: grey;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.names{
+    color: #fff;
+}
